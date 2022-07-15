@@ -6,7 +6,7 @@ but I have also learned on how to use additional Python libraries.
 Key Learning Points - 
 - I discovered that plotly.express has better and more interactive UI compared to when we use matplotlib. I am now considering to convert all my works to plotly.express
 - I have applied the pandas function pd.to_csv by directly using original filepath from C: instead of having to upload my CSVs to Jupyter Notebook homepage every time.
-  I only need to copy the original filepath and change '\' to '/'
+  I only need to copy the original filepath and change "\" to "/"
 - I have discovered the use of pandas.DataFrame(list(zip()) - it is to aggregate/combine multiple sets of lists easily with a single line of code!
 - I have used plotly.graph_objects - do find the details on this link! https://plotly.com/python/graph-objects/ (when to use graph objects)
 - From this point, however powerful px is, it still has its limitations but do note that it is under the graph_objects domain, so further customization can still
